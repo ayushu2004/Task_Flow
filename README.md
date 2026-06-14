@@ -1,4 +1,4 @@
-# Team Task Manager
+# Project Coordinator
 
 A production-ready MERN application for managing team projects and assigned work. It includes JWT authentication, role-based access control, MongoDB relationships with Mongoose, REST APIs, and a responsive React UI.
 
